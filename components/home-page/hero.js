@@ -7,7 +7,7 @@ const Hero = () => {
         <div className={classes.image}>
             <Image src="/images/site/arya.jpg" alt="An image showing Aryan" width={300} height={300} />
         </div>
-        <h1>Hi, I'm Aryan</h1>
+        <h1>Hi, I&apos;m Aryan</h1>
         <p>
             I blog about web development.
         </p>
